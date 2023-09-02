@@ -1,5 +1,5 @@
 # Barrier-option-pricing
-Barrier option pricing: Geometric Brownian Motion modeled stock &amp; Monte Carlo simulation in Python
+Geometric Brownian Motion modeled stock &amp; Monte Carlo simulation in Python
 
 This repository contains a Python implementation of the Monte Carlo simulation method for barrier option pricing. Using this approach, we can visualize simulated stock paths, taking into account various financial parameters.
 
