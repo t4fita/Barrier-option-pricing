@@ -39,6 +39,10 @@ The simulation's parameters like initial stock price, volatility, strike price, 
 
 The script will display an animated plot showing the simulated stock paths. You can hover over the paths to view their respective option prices.
 
+https://github.com/t4fita/Barrier-option-pricing/assets/132291982/0d08ccb6-e636-48e9-a737-6edd92f8632a
+
+
+
 ## Saving The Animation
 
 To save the animation, uncomment the respective lines in the main.py script. You can save it in formats like MP4 or GIF.
